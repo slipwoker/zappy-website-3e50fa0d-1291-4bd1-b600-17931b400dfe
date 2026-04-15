@@ -581,9 +581,9 @@
                 '[tiktok_handle]',
                 '[pinterest_handle]',
                 // Old format (full URL placeholders)
-                '[social_facebook]',
-                '[social instagram]',
-                '[social_instagram]',
+                'https://facebook.com/0506767646',
+                'https://instagram.com/ציון אבגי',
+                'https://instagram.com/ציון אבגי',
                 'https://wa.me/972528405152',
                 'https://wa.me/972528405152',
                 '[social_twitter]',
