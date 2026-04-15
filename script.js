@@ -559,8 +559,7 @@
                 if (phoneHeaderBtn) {
                     phoneHeaderBtn.addEventListener('click', function() {
                         // Default placeholder - business owner can update
-                        const phoneNumber = '+1234567890';
-                        window.location.href = 'tel:' + phoneNumber;
+                        var e=document.querySelectorAll('a[href^="tel:"]');var n=e.length>0?e[0].getAttribute("href").replace("tel:",""):"0528405152";window.location.href="tel:"+n
                     });
                 }
             }
@@ -585,8 +584,8 @@
                 '[social_facebook]',
                 '[social instagram]',
                 '[social_instagram]',
-                '[social whatsapp]',
-                '[social_whatsapp]',
+                'https://wa.me/972528405152',
+                'https://wa.me/972528405152',
                 '[social_twitter]',
                 '[social_linkedin]',
                 '[social_youtube]',
