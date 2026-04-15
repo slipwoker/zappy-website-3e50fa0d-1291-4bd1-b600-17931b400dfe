@@ -581,9 +581,9 @@
                 '[tiktok_handle]',
                 '[pinterest_handle]',
                 // Old format (full URL placeholders)
-                'https://facebook.com/0506767646',
-                'https://instagram.com/ציון אבגי',
-                'https://instagram.com/ציון אבגי',
+                'https://facebook.com/evgiharel@gmail.com',
+                'https://instagram.com/evgiharel@gmail.com',
+                'https://instagram.com/evgiharel@gmail.com',
                 'https://wa.me/972528405152',
                 'https://wa.me/972528405152',
                 '[social_twitter]',
