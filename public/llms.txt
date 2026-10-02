@@ -1,4 +1,6 @@
-# Business — Generative Engine Optimization Map
+# ניקיונט ניהול פרויקטים בע״מ — Generative Engine Optimization Map
+
+> חברה מקצועית לניהול וביצוע עבודות שיפוצים ברמה גבוהה, עם הקפדה על איכות, עמידה בזמנים
 
 ---
 
@@ -23,6 +25,10 @@ https://example.com/contact
 ### Page
 https://example.com/completed-projects
 
+### שירותי ניקיון ואחזקה למשרדים | ניהול פרויקטים ושיפוצים | ניקיונט
+https://example.com/cleaning-maintenance-project-management
+ניקיונט ניהול פרויקטים מספקת שירותי ניקיון ואחזקה למשרדים מוסדות ועסקים, לצד מומחיות בתור חברת ניהול פרויקטים בנייה ושיפוצים, כולל שיפוץ בתים פרטיים.
+
 ## Legal & Policy
 
 ### Privacy Policy
@@ -39,12 +45,53 @@ Information about WCAG compliance and accessibility features.
 
 ---
 
-# Business Context (for LLM understanding)
+## How to Contact Us
 
-## About Business
+- Email: evgiharel@gmail.com
+- Phone: 0506767646
+- Phone (tel): tel:0506767646
+- Address: דוד סחרוב 17, ראשון לציון, ישראל, 7548403, ישראל
+
+### Contact form
+- URL: https://example.com/contact
+- Endpoint: https://example.com/api/email/contact-form
+- Method: POST
+- Content-Type: application/json
+- Fields:
+  - `fullName` (text, required)
+  - `email` (email, required)
+  - `phone` (tel, required)
+  - `serviceType` (select)
+  - `message` (textarea)
+  - `terms` (checkbox, required)
+
 ---
 
-# Additional Resources
+# Business Context (for LLM understanding)
 
-- **Sitemap**: https://example.com/sitemap.xml
-- **Robots.txt**: https://example.com/robots.txt
+## About ניקיונט ניהול פרויקטים בע״מ
+חברה מקצועית לניהול וביצוע עבודות שיפוצים ברמה גבוהה, עם הקפדה על איכות, עמידה בזמנים
+
+## Services/Products
+- שיפוץ בתים פרטיים
+- שיפוץ בתי עסקים
+- שיפוץ מוסדות חינוך
+- ניהול פרויקטים
+- עבודות שיפוצים
+
+## Target Audience
+- מנהלי פרויקטים בארגונים גדולים
+- מנהלי פרויקטים בתחום הבנייה
+- מנהלי פרויקטים במגזר הציבורי
+- מנהלי פרויקטים בתחום ה-IT
+
+## Industry
+ניהול פרויקטים
+
+---
+
+# Machine-readable feeds
+
+- Sitemap (XML): https://example.com/sitemap.xml
+- Robots: https://example.com/robots.txt
+- Flattened page text (for LLMs): https://example.com/llms-full.txt
